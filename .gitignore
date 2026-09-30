@@ -1,0 +1,7 @@
+node_modules
+dist
+*.local
+.DS_Store
+.vercel
+# copied from node_modules/@mediapipe/tasks-vision/wasm by scripts/copy-mediapipe-wasm.mjs
+public/mediapipe
